@@ -1,0 +1,12 @@
+.fa {
+    padding: 70px;
+    font-size: 90px;
+    margin-top: 5%;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .fa:hover{
+    color:blue;
+  }
